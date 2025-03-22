@@ -1,16 +1,16 @@
 ### Hi there 👋, my name is Than Zaw Toe
-#### I am roboticist engineer.
-![I am roboticist engineer.](https://camo.githubusercontent.com/042fc9819da8eebba411a9438d253a3be6749576a1559ff40917bae26e260f53/68747470733a2f2f692e696d6775722e636f6d2f7149314a66796c2e676966)
+#### I am AI engineer.
 
-I am a passionate roboticist engineer, driven by the quest to innovate and create intelligent machines that transform industries and improve human lives.
+I am an AI-IOT master student with expertise in AI and computer vision. I am passionate about AIoT
+projects and Image Processing technology, with hands-on experience as a computer vision researcher.
 
-Skills: Ros2 / Gazebo / C++ / Python / Matlab / Linux
+Skills: AI / Computer Vision / IOT 
 
-- 🔭 I’m currently working on https://github.com/ROM-robotics 
-- 🌱 I’m currently learning ROS2 / Gazebo / C++ /Python  
-- 👯 I’m looking to collaborate on Robotics engineering company 
-- 📫 How to reach me: thanzawtoe.tzt@gmail.com 
-- 😄 Pronouns: catto 🐱 
+- 🔭 I’m currently studying at Sirindhorn International Institue of Technology, Thammasat University
+- 🌱 I’m currently learning AIoT / Computer Vison / Machine Learing   
+- 👯 I’m looking to collaborate on AI industry
+- 📫 How to reach me: dev.thanzawtoe@gmail.com 
+- 😄 Pronouns: Luca 🐱 
 
 
 
